@@ -1,5 +1,7 @@
 # Mitron Bank Credit Card Analysis
 
+![Homepage](Dashboard_Screenshots_Homepage.png)
+
 ## Project Overview
 
 Mitron Bank, a legacy financial institution headquartered in Hyderabad, plans to launch a new line of credit cards to expand its market presence and product offerings. Before launching the product, the bank requires a deeper understanding of customer demographics, spending behavior, income utilization patterns, and payment preferences.
@@ -16,7 +18,7 @@ This project was completed as part of the **CodeBasics Resume Project Challenge*
 
 The challenge required participants to analyze customer spending behavior and demographic data for Mitron Bank and provide actionable recommendations to support the launch of a new credit card product.
 
-Special thanks to **CodeBasics** and **AtliQ Data Services** for designing the business scenario, dataset, and learning experience that inspired this project.
+Special thanks to [CodeBasics](https://codebasics.io/) and AtliQ Data Services for designing the business scenario, dataset, and learning experience that inspired this project.
 
 ---
 
@@ -42,6 +44,16 @@ Key business questions addressed include:
 * Evaluate spending trends across categories and cities.
 * Analyze customer payment preferences.
 * Provide strategic recommendations to support the credit card launch.
+
+---
+
+## Project Highlights
+
+- Built an interactive 5-page Power BI dashboard.
+- Developed KPI cards and DAX measures for customer behavior analysis.
+- Performed demographic, income utilization, spending, and market analysis.
+- Generated strategic recommendations for Mitron Bank's credit card launch.
+- Created executive-level business insights and visual storytelling.
 
 ---
 
@@ -186,7 +198,7 @@ This dashboard enables Mitron Bank's Product Strategy Team to:
 
 ### Vandana Rughoo
 
-Statistical Officer | Aspiring Data Analyst
+Statistical Officer | Data Analyst
 
 Mauritius
 
